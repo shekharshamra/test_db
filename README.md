@@ -1,5 +1,5 @@
 # test_db
-A sample database with an integrated test suite, used to test your applications and database servers
+Test commit..A sample database with an integrated test suite, used to test your applications and database servers
 
 This repository was migrated from [Launchpad](https://launchpad.net/test-db).
 
